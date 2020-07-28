@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015.07.08 19:34:57.685.pas,C:\Users\Roman\Documents\RAD Studio\Projects\Unit1.pas=D:\CODING\Delphi_App\RAR_Pic\Unit1.pas</Transaction>
+    <Transaction>2015.07.08 19:34:57.685.dfm,C:\Users\Roman\Documents\RAD Studio\Projects\Unit1.dfm=D:\CODING\Delphi_App\RAR_Pic\Unit1.dfm</Transaction>
+    <Transaction>2015.07.08 19:35:05.675.dproj,C:\Users\Roman\Documents\RAD Studio\Projects\Project1.dproj=D:\CODING\Delphi_App\RAR_Pic\RARPic.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
